@@ -239,3 +239,19 @@ ul{
    background-color: #220efb;
    color: #fff;
 }
+
+/*----testimonials---*/
+
+.testimonials{
+   width: 80%;
+   margin: auto;
+   padding-top: 700px;
+   text-align: center;
+}
+
+.testimonials h6{
+   font-size: 20px;
+   text-align: center;
+   width: auto;
+   position: relative;
+}
